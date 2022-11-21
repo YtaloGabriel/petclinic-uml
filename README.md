@@ -9,7 +9,7 @@
 
 ### Pergunta 1:
 O que você precisa em seu sistema?
-R: O sistema deverá ter uma área exclusiva para lançar, deletar e
+> R: O sistema deverá ter uma área exclusiva para lançar, deletar e
 alterar dados da agenda. Gerenciamento de pessoas onde o dono da
 empresa poderá cadastrar, alterar ou deletar um novo funcionário ou um
 novo cliente. Poderá ter um arquivo morto, onde posso deixar o histórico
@@ -18,12 +18,12 @@ nesta sessão os arquivos só poderão ser consultados.
 
 ### Pergunta 2:
 O seu sistema vai ter alguma restrição?
-R: Sim, somente pessoas devidamente cadastradas poderão ter
+> R: Sim, somente pessoas devidamente cadastradas poderão ter
 acesso aos dados do sistema.
 
 ### Pergunta 3:
 Qual o valor que você está disposto a investir?
-R: A nossa empresa precisa gerenciar com mais precisão o estoque,
+> R: A nossa empresa precisa gerenciar com mais precisão o estoque,
 as compras, consultas e nossa agenda, por isso pensamos em investir no
 máximo R$ 1.000,00 para o desenvolvimento total do projeto.
 
