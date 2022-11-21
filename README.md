@@ -30,7 +30,7 @@ máximo R$ 1.000,00 para o desenvolvimento total do projeto.
 ### Pergunta 4:
 Você tem alguma coisa a acrescentar que não foi citada nesta
 entrevista?
-R: De acordo com análise de sistemas em demonstração, vejo que
+> R: De acordo com análise de sistemas em demonstração, vejo que
 estes possuem uma velocidade de processamento um tanto quanto alta, por
 este motivo gostaria que meu sistema tivesse essa agilidade.
 
@@ -40,39 +40,39 @@ este motivo gostaria que meu sistema tivesse essa agilidade.
 
 ### 2.1 Requisitos Funcionais
 
-#### RF1. O sistema deve ter uma tela para logar no mesmo.
-RF2. O sistema deve ter uma tela para lançamento de um determinado
+- RF1. O sistema deve ter uma tela para logar no mesmo.
+- RF2. O sistema deve ter uma tela para lançamento de um determinado
 evento na agenda.
-RF3. O sistema deve ter a opção de alterar um determinado lançamento da
+- RF3. O sistema deve ter a opção de alterar um determinado lançamento da
 agenda.
-RF4. O sistema deve ter a opção de deletar um determinado lançamento da
+- RF4. O sistema deve ter a opção de deletar um determinado lançamento da
 agenda.
-RF5. O sistema deve ter uma opção para cadastrar uma nova pessoa
+- RF5. O sistema deve ter uma opção para cadastrar uma nova pessoa
 (cliente ou funcionário).
-RF6. O sistema deve ter a opção de alterar a pessoa cadastrada.
-RF7. O sistema deve ter a opção de deletar a pessoa anteriormente
+- RF6. O sistema deve ter a opção de alterar a pessoa cadastrada.
+- RF7. O sistema deve ter a opção de deletar a pessoa anteriormente
 cadastrada.
-RF8. O sistema deve possuir uma opção para cadastrar um novo
+- RF8. O sistema deve possuir uma opção para cadastrar um novo
 atendimento ou procedimento clínico.
-RF9. O sistema deve ter uma opção para alterar o histórico anteriormente
+- RF9. O sistema deve ter uma opção para alterar o histórico anteriormente
 cadastrado.
-RF10. O sistema deve ter uma opção para mover o histórico anteriormente
+- RF10. O sistema deve ter uma opção para mover o histórico anteriormente
 cadastrado para o ‘arquivo morto’.
-RF11. O sistema deve ter uma opção para se conectar com o sistema
+- RF11. O sistema deve ter uma opção para se conectar com o sistema
 financeiro a fim de gerar a folha de pagamento (salários e demais gastos).
 
 
 ### 2.2 Requisitos Não-Funcionais
 
-RNF1. Confiabilidade – o sistema possui um sistema de backup automático
+- RNF1. Confiabilidade – o sistema possui um sistema de backup automático
 a fim de minimizar os riscos de uma possível falha.
-RNF2. Desempenho – todos os lançamentos não podem ultrapassar o
+- RNF2. Desempenho – todos os lançamentos não podem ultrapassar o
 tempo limite de 7 segundos para serem inseridos no banco de dados.
-RNF3. Portabilidade – o sistema será desenvolvido para a plataforma
+- RNF3. Portabilidade – o sistema será desenvolvido para a plataforma
 Windows tanto para a versão 32 e 64 bits. As migrações para outras
 plataformas como IOS e Linux terão que passar um processo separado,
 caso haja necessidade.
-RNF4. Segurança – todas as áreas do site tirando a tela inicial só poderão
+- RNF4. Segurança – todas as áreas do site tirando a tela inicial só poderão
 ser acessadas mediante login e senha válida.
 
 
