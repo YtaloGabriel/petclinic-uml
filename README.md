@@ -1,4 +1,4 @@
-#Contexto
+*Contexto*
 ##O projeto consiste em desenvolver uma aplicação, bem como sua documentação, para uma clínica veterinária chamada PetClinic. A elicitação dos requisitos foi feito a partir de uma entrevista, que está transcrita a seguir.
 
 ##Entrevista
