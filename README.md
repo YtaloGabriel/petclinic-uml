@@ -82,9 +82,9 @@ ser acessadas mediante login e senha válida.
 2. Identifique os sub-sistemas que serão desenvolvidos para compor a solução
 3. Documente os requisitos usando histórias de usuários
 4. Para cada história de usuário, descreva o mínimos de 3 critérios de aceitação usando BDD
-5. Documente os seguintes Casos de Uso
-6. Cadastrar Medicamentos
-7. Realizar cadastro de Funcionários
-8. Gerenciar folha de pagamento
-9. Identifique as classes, atributos e métodos desses cenários e coloque em uma tabela.
-10. Desenha o diagrama de classes UML. Leve em consideração os relacionamentos vistos em sala.
+5. Documente os seguintes Casos de Uso:
+5.1. Cadastrar Medicamentos
+5.2. Realizar cadastro de Funcionários
+5.3. Gerenciar folha de pagamento
+6. Identifique as classes, atributos e métodos desses cenários e coloque em uma tabela.
+7. Desenha o diagrama de classes UML. Leve em consideração os relacionamentos vistos em sala.
