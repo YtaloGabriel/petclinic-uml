@@ -40,7 +40,7 @@ este motivo gostaria que meu sistema tivesse essa agilidade.
 
 ### 2.1 Requisitos Funcionais
 
-RF1. O sistema deve ter uma tela para logar no mesmo.
+####RF1. O sistema deve ter uma tela para logar no mesmo.
 RF2. O sistema deve ter uma tela para lançamento de um determinado
 evento na agenda.
 RF3. O sistema deve ter a opção de alterar um determinado lançamento da
