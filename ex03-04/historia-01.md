@@ -2,11 +2,26 @@
 
 ### Gerenciar Clientes
 
-> Como dono do petclinic, eu desejo gerenciar (CRUD) todos os clientes para que eu tenha um controle total dos clientes presentes na minha plataforma.
+> Como dono do petclinic
+> Eu desejo gerenciar (CRUD) todos os clientes 
+> Para que eu tenha um controle total dos clientes presentes na minha plataforma.
 
 ### Critérios de Aceitação
-- A busca não pode ser realizada se não for informado o nome ou o CPF do cliente.
-- O sistema não encontrando o cliente, deve informar que o cliente solicitado não está cadastrado.
-- Um cliente não pode ter o CPF igual ao de outro cliente já cadastrado.
-- O cliente precisa ter nome e sobrenome
-- A inserção do CPF do cliente é obrigatória.
+
+- Cenário 1: Pesquisar por cliente
+  - Dado: que eu esteja realizando uma busca de clientes;
+  - Quando eu digitar o nome ou o CPF do cliente;
+    - E: O cliente não estiver cadastrado no sistema
+  - Então: O sistema deverá informar uma mensagem de cliente não existente.
+  
+- Cenário 2: Adicionando um novo cliente
+  - Dado: que eu envie os dados de um novo cliente;
+  - Quando: O CPF do cliente já pertencer a um outro cliente cadastrado;
+  - Então: O sistema deverá informar que já existe um cliente cadastrado com esse CPF.
+
+- Cenário 3: Cliente sem dados importantes
+  - Dado: que eu esteja adicionando um novo cliente;
+  - Quando: o CPF do cliente não for informado;
+    - E: O nome do cliente não for informado;
+  - Então: O sistema não permitirá que o cliente seja criado;
+    - E: O sistema deverá informar que CPF e Nome são campos obrigatórios.
