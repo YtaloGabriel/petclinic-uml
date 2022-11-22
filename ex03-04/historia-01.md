@@ -10,7 +10,7 @@
 
 - Cenário 1: Pesquisar por cliente
   - Dado: que eu esteja realizando uma busca de clientes;
-  - Quando eu digitar o nome ou o CPF do cliente;
+  - Quando eu enviar as informações do cliente;
     - E: O cliente não estiver cadastrado no sistema
   - Então: O sistema deverá informar uma mensagem de cliente não existente.
   
