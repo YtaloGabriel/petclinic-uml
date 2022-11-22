@@ -2,9 +2,9 @@
 
 ### Gerenciar Clientes
 
-> Como dono do petclinic
-> Eu desejo gerenciar (CRUD) todos os clientes 
-> Para que eu tenha um controle total dos clientes presentes na minha plataforma.
+> - Como dono do petclinic
+> - Eu desejo gerenciar (CRUD) todos os clientes 
+> - Para que eu tenha um controle total dos clientes presentes na minha plataforma.
 
 ### Critérios de Aceitação
 
