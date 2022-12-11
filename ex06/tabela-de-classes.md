@@ -3,10 +3,10 @@
 ### Classe 1
 |    Classe   |     Atributos     |           Métodos         |
 | ----------- | ----------------- | ------------------------- |
-| Funcionario | nomeFuncionario: String | gerenciarMedicamento() |
-| | cpfFuncionario: String | gerenciarAgenda() |
-| | codigoFuncionario: String | gerenciarCliente() |
-| | salarioFuncionario: Float | gerenciarAtendimento() |
+| Funcionario | nomeFuncionario: String |gerenciarAgenda() |
+| | cpfFuncionario: String | gerenciarCliente() |
+| | codigoFuncionario: String | gerenciarAtendimento() |
+| | salarioFuncionario: Float |  |
 
 ### Classe 2
 |    Classe   |     Atributos     |           Métodos         |
