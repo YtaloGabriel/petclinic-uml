@@ -1,32 +1,59 @@
 # Tabelas de Classes
 
-1.
+### Classe 1
 |    Classe   |     Atributos     |           Métodos         |
 | ----------- | ----------------- | ------------------------- |
-| Funcionario | nome: String | gerenciarMedicamento() |
-| | cpf: String | gerenciarAgenda() |
-| | salario: Boolean | gerenciarCliente() |
+| Funcionario | nomeFuncionario: String | gerenciarMedicamento() |
+| | cpfFuncionario: String | gerenciarAgenda() |
+| | codigoFuncionario: String | |
+| | salarioFuncionario: Float | gerenciarCliente() |
 | | | gerenciarAtendimento() |
 
-2.
+### Classe 2
 |    Classe   |     Atributos     |           Métodos         |
 | ----------- | ----------------- | ------------------------- |
-| Cliente | nome: String      | verAgenda()    |
-| | cpf: String | realizarAgendamento() |
-| | telefone: String | |
+| Cliente | nomeCliente: String      | verAgenda()    |
+| | idadeCliente: String | realizarAgendamento() |
+| | codigoCliente: String | |
+| | pesoCliente: Float | |
+| | racaCliente: String | |
+| | nomeTutor: String | |
+| | telefoneTutor: String | |
 
-3.
+### Classe 3
 |    Classe   |     Atributos     |           Métodos         |
 | ----------- | ----------------- | ------------------------- |
-| Agenda | nome: String | |
-| | data: Datetime | |
-| | cliente: String | |
-| | funcionario: String | |
+| Agenda | nomeAgenda: String | |
+| | dataAgenda: Datetime | |
+| | codigoCliente: String | |
+| | codigoFuncionario: String | |
 
-4.
+### Classe 4
 |    Classe   |     Atributos     |           Métodos         |
 | ----------- | ----------------- | ------------------------- |
-| Atendimento | nome: String | |
-| | tipo: String | |
+| Atendimento | nomeAtendimento: String | |
+| | tipoAtendimento: String | |
+| | tempoMedioDeAtendimento: String | |
 
 
+### Classe 5
+|    Classe   |     Atributos     |           Métodos         |
+| ----------- | ----------------- | ------------------------- |
+| HistoricoConsultas | codigoConsulta: String | |
+| | tipoConsulta: String | |
+| | codigoCliente: String | |
+| | dataConsulta: Datetime | |
+| | codigoFuncionario: String | |
+
+
+### Classe 6
+|    Classe   |     Atributos     |           Métodos         |
+| ----------- | ----------------- | ------------------------- |
+| HistoricoClientes | codigoCliente: String | |
+
+### Classe 7
+|    Classe   |     Atributos     |           Métodos         |
+| ----------- | ----------------- | ------------------------- |
+| FolhaDePagamento | tipoPagamento: String | |
+| | codigoFuncionario: String | |
+| | precoPagamento: Float | |
