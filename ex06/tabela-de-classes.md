@@ -22,3 +22,10 @@
 | | data: Datetime | |
 | | cliente: String | |
 | | funcionario: String | |
+
+4. |    Classe   |     Atributos     |           Métodos         |
+| ----------- | ----------------- | ------------------------- |
+| Atendimento | nome: String | |
+| | tipo: String | |
+
+
