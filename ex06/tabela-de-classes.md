@@ -35,6 +35,7 @@
 | Atendimento | nomeAtendimento: String | |
 | | tipoAtendimento: String | |
 | | tempoMedioDeAtendimento: String | |
+| | codigoAtendimento: String | |
 
 
 ### Classe 5
@@ -58,3 +59,4 @@
 | FolhaDePagamento | tipoPagamento: String | |
 | | codigoFuncionario: String | |
 | | precoPagamento: Float | |
+| | codigoPagamento: Int | |
