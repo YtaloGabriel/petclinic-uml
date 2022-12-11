@@ -14,8 +14,8 @@
 8. sistema adiciona o medicamento no banco de dados e limpa os campos para que um novo medicamento seja adicionado
 
 #### Extensões:
-1.1 Se o funcionário não for autenticado, solicitar um login válido 
-2.1 Se a medicação já existir no sistema, informar que o medicamento já está cadastrado 
-5.1 Se o valor inserido for menor que 0, solicitar um preço válido. 
-5.2 Se o valor inserido for igual a 0, perguntar se o medicamento é realmente gratuito.
-6.1. Se o valor inserido for menor ou igual a 0, solicitar um estoque válido. 
+- 1.1. Se o funcionário não for autenticado, solicitar um login válido 
+- 2.1. Se a medicação já existir no sistema, informar que o medicamento já está cadastrado 
+- 5.1. Se o valor inserido for menor que 0, solicitar um preço válido. 
+- 5.2. Se o valor inserido for igual a 0, perguntar se o medicamento é realmente gratuito.
+- 6.1. Se o valor inserido for menor ou igual a 0, solicitar um estoque válido. 
