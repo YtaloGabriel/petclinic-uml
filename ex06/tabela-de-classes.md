@@ -7,7 +7,6 @@
 | | cpfFuncionario: String | gerenciarAgenda() |
 | | codigoFuncionario: String | gerenciarCliente() |
 | | salarioFuncionario: Float | gerenciarAtendimento() |
-| | | |
 
 ### Classe 2
 |    Classe   |     Atributos     |           Métodos         |
