@@ -23,9 +23,11 @@
 |    Classe   |     Atributos     |           Métodos         |
 | ----------- | ----------------- | ------------------------- |
 | Agenda | nomeAgenda: String | |
+| | codigoAgenda: String | |
 | | dataAgenda: Datetime | |
 | | codigoCliente: String | |
 | | codigoFuncionario: String | |
+| | codigoConsulta: String | |
 
 ### Classe 4
 |    Classe   |     Atributos     |           Métodos         |
