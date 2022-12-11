@@ -16,12 +16,12 @@
   
 - Cenário 2: Adicionando um novo cliente
   - Dado: que eu envie os dados de um novo cliente;
-  - Quando: O CPF do cliente já pertencer a um outro cliente cadastrado;
+  - Quando: O CPF do tutor do cliente já pertencer a um outro cliente cadastrado;
   - Então: O sistema deverá informar que já existe um cliente cadastrado com esse CPF.
 
 - Cenário 3: Cliente sem dados importantes
   - Dado: que eu esteja adicionando um novo cliente;
-  - Quando: o CPF do cliente não for informado;
+  - Quando: o CPF do tutor do cliente não for informado;
     - E: O nome do cliente não for informado;
   - Então: O sistema não permitirá que o cliente seja criado;
     - E: O sistema deverá informar que CPF e Nome são campos obrigatórios.
