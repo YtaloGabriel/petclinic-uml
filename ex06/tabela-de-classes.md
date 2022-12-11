@@ -6,8 +6,8 @@
 | Funcionario | nomeFuncionario: String | gerenciarMedicamento() |
 | | cpfFuncionario: String | gerenciarAgenda() |
 | | codigoFuncionario: String | gerenciarCliente() |
-| | salarioFuncionario: Float | |
-| | | gerenciarAtendimento() |
+| | salarioFuncionario: Float | gerenciarAtendimento() |
+| | | |
 
 ### Classe 2
 |    Classe   |     Atributos     |           Métodos         |
