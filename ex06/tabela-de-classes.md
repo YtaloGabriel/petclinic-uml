@@ -3,5 +3,5 @@
 |    Classe   |     Atributos     |           Métodos         |
 | ----------- | ----------------- | ------------------------- |
 | Funcionario | nome: String      | cadastrarMedicamento()    |
-|             | cpf: String       |                           |
-|             | salario: Boolean  |                           |
+             | cpf: String       |                            |
+             | salario: Boolean  |                           |
