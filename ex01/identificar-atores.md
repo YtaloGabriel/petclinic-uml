@@ -1,5 +1,5 @@
 # Identifique os atores que poderão interagir com a aplicação
 
-- Dono
+- Administrador
 - Cliente
 - Funcionário
